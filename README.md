@@ -1,38 +1,34 @@
-<h1 align="center">Hi, I'm Phakhawat 👋</h1>
+# 👋 Hello! I'm Phakhawat
 
-
-
-
----
-🚀 **[Frontend_Cloneweb](https://github.com/phakhawat-ck/Frontend_cloneweb)**  
-🚀 **[UI Component: Skill Showcase Card - roadmap.sh](https://github.com/phakhawat-ck/roadmap.sh-section)**  
----
-
-### 🧑‍💻 About Me
-
-I'm a self-taught Frontend Developer who recently started exploring **React** and **Tailwind CSS**.  
-I enjoy building modern and responsive websites with clean UI and meaningful animations.  
-My goal is to keep learning, improving, and collaborating with other developers.
+Welcome to my GitHub profile. This is where I share my learning journey and showcase projects as I grow my skills in frontend web development.
 
 ---
 
-### 📌 Featured Project
+## 🧠 Currently Learning
+- HTML / CSS / JavaScript
+- React.js
+- UI/UX Design
+- Web Accessibility
+- Git & GitHub for version control
 
-🚀 **[React Portfolio](https://github.com/phakhawat-ck/React_port)**  
-My first project using React + Tailwind  
-🌐 [Live Preview](https://phakhawat.vercel.app/)
+---
 
-<img src="./React_port/Overview/mac/phakhawat.vercel.app_-front.png" width="600"/>
+## 🛠 Highlighted Projects
+
+- 🔹 [roadmap.sh-section](https://github.com/phakhawat-ck/roadmap.sh-section)  
+  A collection of frontend practice projects based on the [roadmap.sh](https://roadmap.sh/) frontend roadmap. Each section helps reinforce key web development concepts.
+
+- 🔹 [Frontend_cloneweb](https://github.com/phakhawat-ck/Frontend_cloneweb)  
+  A simple website clone for learning layout and styling using HTML and CSS.
+
+- 🔹 [React PortFolio](https://github.com/phakhawat-ck/React_port)  
 
 ---
 
-### 🧰 Tech Stack
+## 📫 Get in Touch
+Feel free to reach out or connect — I’m always open to learning more and getting feedback!
 
-- React, Vite, JavaScript (ES6+)
-- Tailwind CSS, DaisyUI
-- Git, GitHub, Vercel
 
----
 
 ### 📫 Contact
 
