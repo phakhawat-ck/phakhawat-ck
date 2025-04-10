@@ -30,7 +30,6 @@ My first project using React + Tailwind
 
 - React, Vite, JavaScript (ES6+)
 - Tailwind CSS, DaisyUI
-- Framer Motion, React Tooltip
 - Git, GitHub, Vercel
 
 ---
@@ -40,11 +39,4 @@ My first project using React + Tailwind
 - Email: phakhawat.ck@gmail.com 
 - Portfolio: [https://phakhawat.vercel.app](https://phakhawat.vercel.app)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phakhawat-ck&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phakhawat-ck&layout=compact&theme=radical" width="350"/>
-</p>
