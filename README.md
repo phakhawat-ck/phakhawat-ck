@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Phakhawat 👋</h1>
 
-<p align="center">
-  ⚛️ React & Tailwind Enthusiast  
-</p>
+
 
 
 ---
